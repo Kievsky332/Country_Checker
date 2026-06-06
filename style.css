@@ -1,0 +1,22 @@
+body,html{
+    color:white;
+    background-color: #3a3a3a;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#name{
+    font-size: 120px;
+    margin: 0;
+    padding: 0;
+}
+#flags{
+    margin: 3vw 0;
+    width: 50vw;
+}
+#info{
+    position: absolute;
+    bottom: 0px;
+    left: 20vw;
+    right: 20vw;
+}
